@@ -52,4 +52,4 @@ Contributions are welcome! If you have a Python script or project you'd like to 
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact [Hamza](mailto:hamzazeeshan675@gmail.com).
+For any questions or suggestions, please open an issue or contact [MuhammadHamzaZeeshan](mailto:hamzazeeshan675@gmail.com).
